@@ -1,0 +1,15 @@
+td {
+    border:1px solid black;
+}
+
+body{
+    background-image: url('/img/background.jpg');
+    background-size: cover;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    color: white;
+}
+
+.allign {
+    text-align: left;
+}
